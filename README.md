@@ -12,7 +12,7 @@ A lightweight intentionally vulnerable web application for practicing web applic
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
