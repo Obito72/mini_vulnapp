@@ -4,7 +4,7 @@ A lightweight intentionally vulnerable web application for practicing web applic
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🕵️ SQL Injection Vulnerability on Login
 - 💬 Cross-Site Scripting (XSS) on Comments
